@@ -1,3 +1,3 @@
-# Projet_Banque_Credit
- L'objectif de ce projet est de predire les client qui présente un risque pour savoir si la banque octroit <br>
- un credit ou non 
+# # Prédiction du Risque de Crédit Bancaire
+ Ce projet utilise des techniques de Machine Learning pour prédire la probabilité de défaut de paiement des clients bancaires, <br>
+ aidant ainsi à l'évaluation et à la gestion des risques de crédit.
